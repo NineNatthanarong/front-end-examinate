@@ -11,8 +11,8 @@ A Frontend project for test.
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <project-directory>
+git clone https://github.com/NineNatthanarong/front-end-examinate.git
+cd front-end-examinate
 ```
 
 2. Start the application using Docker Compose:
